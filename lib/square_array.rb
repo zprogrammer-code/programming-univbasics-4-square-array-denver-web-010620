@@ -4,6 +4,6 @@ def square_array(array)
   while count<4 do
  numbers << numbers[count]**2
  count += 1
- return numbers
 end
+return numbers
 end
